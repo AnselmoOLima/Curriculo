@@ -1,0 +1,93 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Gotu&display=swap');
+
+body {
+    background-image: url("../imagens/fundo.jpg");
+    font-family: Gotu, sans-serif;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 50px;
+    width: 900px;
+
+}
+
+header{
+    float: right;
+    position: absolute;
+    width: 900px;
+
+}
+div.imagem img {
+    width: 130px;
+    position: relative;
+    display: inline-block;
+    border-style: solid;
+    float: left;
+    margin-right: 30px;
+}
+div.cabecalho{
+    background-color: ghostwhite;
+    display: block;
+    margin-top: 20px;
+    border-style: solid;
+    padding: 10px;
+}
+
+div.meu_nome h1{
+    font-size: 15px;
+    text-align: center;
+    font-weight: bolder;
+    float: right;
+    display: inline-block;
+}
+
+div.meu_nome p{
+    font-size: 14px;
+    text-align: center;
+    float: right;
+    display: inline-block;
+}
+
+nav#menu {
+display: block;
+}
+
+nav#menu ul {
+    list-style: none; /*tira os pontos da linha*/
+    position: absolute;
+    margin-top: 5px;
+    background-color: ghostwhite;
+
+}
+
+nav#menu li {
+    display: inline-block;
+    padding: 5px 5px;
+    margin: 2px 2px 7px;
+    text-align: center;
+    font-size: 16px;
+   /* border-style: solid;*/
+
+}
+
+nav#menu a {
+    text-decoration: none;
+    color: black;
+}
+
+nav#menu a:hover {
+    text-decoration: underline;
+    color: midnightblue;
+}
+
+
+div.texto {
+    background-color: ghostwhite;
+    display: block;
+    width: 900px;
+    font-size: 20px;
+    position: center;
+    border-style: solid;
+    margin-top: 250px;
+    padding: 20px 20px 20px;
+}
