@@ -1,0 +1,19 @@
+ul.atividade{
+    list-style: none;
+}
+
+ul.atividade{
+    list-style: square;
+}
+
+ul.atividade h1{
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 4px;
+}
+
+ul.atividade p {
+    font-size: 16px;
+    margin: 2px;
+}
