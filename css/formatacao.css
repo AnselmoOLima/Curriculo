@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Gotu&display=swap');
 
 body {
-    background-image: url("../imagens/fundo.jpg");
+    background-image: url("../imagens/fundo.jpeg");
     font-family: Gotu, sans-serif;
     padding-right: 200px;
     padding-left: 200px;
@@ -90,4 +90,9 @@ div.texto {
     border-style: solid;
     margin-top: 250px;
     padding: 20px 20px 20px;
+}
+
+div.texto p {
+    font-size: 14px;
+    margin: 2px;
 }
