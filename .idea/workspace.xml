@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0cb781d6-4f02-4ead-a4d6-1b6a3a32d658" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades_profisisonais.html" beforeDir="false" afterPath="$PROJECT_DIR$/atividades_profisisonais.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades_voluntarias.html" beforeDir="false" afterPath="$PROJECT_DIR$/atividades_voluntarias.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capacitacoes.html" beforeDir="false" afterPath="$PROJECT_DIR$/capacitacoes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/contato.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/formatacao.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/formatacao.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publicacoes.html" beforeDir="false" afterPath="$PROJECT_DIR$/publicacoes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m9TG7PyhDgmyvTxvPuLtVqimww" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,15 +34,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/arquivos_download" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imagens" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/arquivos_download" />
       <recent name="$PROJECT_DIR$/imagens" />
+      <recent name="$PROJECT_DIR$/arquivos_download" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +56,8 @@
       <workItem from="1608904710891" duration="1017000" />
       <workItem from="1609012425841" duration="7173000" />
       <workItem from="1609020392350" duration="5110000" />
-      <workItem from="1609083217641" duration="1351000" />
+      <workItem from="1609083217641" duration="2010000" />
+      <workItem from="1609096322465" duration="1855000" />
     </task>
     <servers />
   </component>
