@@ -96,3 +96,13 @@ div.texto p {
     font-size: 14px;
     margin: 2px;
 }
+a.link {
+    font-style: oblique;
+    text-decoration-line: blink;
+    color: black;
+    font-weight: bold;
+}
+
+abbr{
+    text-decoration: none;
+}
