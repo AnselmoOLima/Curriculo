@@ -26,7 +26,7 @@ div.imagem img {
     margin-right: 30px;
 }
 div.cabecalho{
-    background-color: ghostwhite;
+    background-color: #ebece7;
     display: block;
     margin-top: 20px;
     border-style: solid;
@@ -56,7 +56,7 @@ nav#menu ul {
     list-style: none; /*tira os pontos da linha*/
     position: absolute;
     margin-top: 5px;
-    background-color: ghostwhite;
+    background-color: #ebece7;
 
 }
 
@@ -77,12 +77,12 @@ nav#menu a {
 
 nav#menu a:hover {
     text-decoration: underline;
-    color: midnightblue;
+    font-weight: bold;
 }
 
 
 div.texto {
-    background-color: ghostwhite;
+    background-color: #ebece7;
     display: block;
     width: 900px;
     font-size: 20px;
