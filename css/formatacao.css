@@ -1,108 +1,102 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Gotu&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Gotu&display=swap");
 
 body {
-    background-image: url("../imagens/fundo.jpeg");
-    font-family: Gotu, sans-serif;
-    padding-right: 200px;
-    padding-left: 200px;
-    padding-top: 50px;
-    width: 900px;
-
+  background: linear-gradient(to right, #dab9c0, #ebc0f0);
+  display: flex;
+  font-family: Gotu, sans-serif;
+  padding-right: 200px;
+  padding-left: 200px;
+  /*margin: auto;*/
 }
 
-header{
-    float: right;
-    position: absolute;
-    width: 900px;
-
-}
-div.imagem img {
-    width: 130px;
-    position: relative;
-    display: inline-block;
-    border-style: solid;
-    float: left;
-    margin-right: 30px;
-}
-div.cabecalho{
-    background-color: #ebece7;
-    display: block;
-    margin-top: 20px;
-    border-style: solid;
-    padding: 10px;
+header {
+  float: right;
+  position: absolute;
+  width: 900px;
+  margin: auto;
 }
 
-div.meu_nome h1{
-    font-size: 15px;
-    text-align: center;
-    font-weight: bolder;
-    float: right;
-    display: inline-block;
+/*CABEÇALHO DE APRESENTAÇÃO*/
+div.cabecalho {
+  background-color: #f8f8f6;
+  display: block;
+  margin-top: 20px;
+  border-style: solid;
+  border-width: 2px;
+  padding: 10px;
 }
 
-div.meu_nome p{
-    font-size: 14px;
-    text-align: center;
-    float: right;
-    display: inline-block;
+div.cabecalho img#minhaFoto {
+  width: 130px;
+  position: relative;
+  display: block;
+  float: left;
+  margin-right: 30px;
+  margin-left: 20px;
 }
 
+div.cabecalho h1 {
+  margin-bottom: 8px;
+}
+
+/*MENU DE NAVEGAÇÃO*/
 nav#menu {
-display: block;
+  display: block;
 }
 
 nav#menu ul {
-    list-style: none; /*tira os pontos da linha*/
-    position: absolute;
-    margin-top: 5px;
-    background-color: #ebece7;
-
+  list-style: none;
+  position: absolute;
+  background-color: #ebece7;
+  padding-left: 115px;
+  padding-right: 115px;
+  border-style: solid;
+  border-width: 2px;
 }
 
 nav#menu li {
-    display: inline-block;
-    padding: 5px 5px;
-    margin: 2px 2px 7px;
-    text-align: center;
-    font-size: 16px;
-   /* border-style: solid;*/
-
+  display: inline-block;
+  padding: 5px 5px;
+  margin: 2px 2px 2px;
+  text-align: center;
+  font-size: 16px;
 }
 
 nav#menu a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 nav#menu a:hover {
-    text-decoration: underline;
-    font-weight: bold;
+  text-decoration: underline;
 }
 
-
+/*DIV DE TEXTO*/
 div.texto {
-    background-color: #ebece7;
-    display: block;
-    width: 900px;
-    font-size: 20px;
-    position: center;
-    border-style: solid;
-    margin-top: 250px;
-    padding: 20px 20px 20px;
+  background-color: #ebece7;
+  display: block;
+  width: 850px;
+  font-size: 20px;
+  position: center;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 260px;
+  padding: 20px 20px 20px;
 }
 
 div.texto p {
-    font-size: 14px;
-    margin: 2px;
-}
-a.link {
-    font-style: oblique;
-    text-decoration-line: blink;
-    color: black;
-    font-weight: bold;
+  font-size: 14px;
+  margin: 2px;
 }
 
-abbr{
-    text-decoration: none;
+a.link {
+  font-style: oblique;
+  text-decoration-line: blink;
+  color: black;
+  font-weight: bold;
+}
+
+abbr {
+  text-decoration: none;
 }
