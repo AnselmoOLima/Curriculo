@@ -77,7 +77,6 @@ div.texto {
   background-color: #ebece7;
   display: block;
   width: 850px;
-  font-size: 20px;
   position: center;
   border-style: solid;
   border-width: 2px;
@@ -90,6 +89,19 @@ div.texto p {
   margin: 2px;
 }
 
+/*LISTAS DE ATIVIDADES*/
+div.texto ul.atividade {
+  list-style: square;
+}
+
+div.texto ul.atividade h1 {
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 4px;
+}
+
+/*LINKS*/
 a.link {
   font-style: oblique;
   text-decoration-line: blink;
