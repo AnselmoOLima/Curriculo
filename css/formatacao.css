@@ -7,7 +7,8 @@ body {
   font-family: Gotu, sans-serif;
   padding-right: 200px;
   padding-left: 200px;
-  /*margin: auto;*/
+  display: flex;
+  justify-content: center;
 }
 
 header {
@@ -26,6 +27,7 @@ div.cabecalho {
   border-width: 2px;
   padding: 10px;
   border-radius: 50px;
+  vertical-align: center;
 }
 
 div.cabecalho img#minhaFoto {

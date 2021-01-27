@@ -25,3 +25,7 @@ ul.areaDeCapacitacao li {
   display: block;
   list-style: square;
 }
+
+ul.areaDeCapacitacao label:hover {
+  text-decoration: underline;
+}
