@@ -25,6 +25,7 @@ div.cabecalho {
   border-style: solid;
   border-width: 2px;
   padding: 10px;
+  border-radius: 50px;
 }
 
 div.cabecalho img#minhaFoto {
@@ -48,19 +49,19 @@ nav#menu {
 nav#menu ul {
   list-style: none;
   position: absolute;
-  background-color: #ebece7;
-  padding-left: 115px;
-  padding-right: 115px;
-  border-style: solid;
-  border-width: 2px;
+  padding-left: 120px;
 }
 
 nav#menu li {
   display: inline-block;
-  padding: 5px 5px;
+  padding: 8px 10px;
   margin: 2px 2px 2px;
   text-align: center;
   font-size: 16px;
+  background-color: #ebece7;
+  border-style: solid;
+  border-radius: 20px;
+  border-width: 2px;
 }
 
 nav#menu a {
@@ -80,6 +81,7 @@ div.texto {
   position: center;
   border-style: solid;
   border-width: 2px;
+  border-radius: 30px;
   margin-top: 260px;
   padding: 20px 20px 20px;
 }

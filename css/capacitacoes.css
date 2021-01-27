@@ -1,0 +1,27 @@
+ul.areaDeCapacitacao {
+  padding-left: 25px;
+}
+
+ul.areaDeCapacitacao label {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+ul.areaDeCapacitacao input {
+  display: none;
+}
+ul.areaDeCapacitacao ul {
+  overflow: hidden;
+  max-height: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+ul.areaDeCapacitacao input:checked ~ ul {
+  height: auto;
+  max-height: 100%;
+}
+ul.areaDeCapacitacao li {
+  display: block;
+  list-style: square;
+}
