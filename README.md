@@ -1,8 +1,6 @@
 # Currículo Letícia Pegoraro Garcez
 
-Curriculo em forma de site desenvolvido por Letícia Pegoraro Garcez, utilizando HTML5, CSS3 e Javascript.
-
-##### Acesse o site no link <inserir link aqui>
+Curriculo em forma de site desenvolvido por Letícia Pegoraro Garcez, utilizando HTML5 e CSS3. Projeto simples para consolidar conhecimentos.
 
 ##### Contato : lpgarcez@inf.ufpel.edu.br
 
