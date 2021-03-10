@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Gotu&display=swap");
 
 body {
-  background: linear-gradient(to right, #dab9c0, #dfa3e6);
+  background: linear-gradient(to right, #ffb5a7, #fcd5ce);
   display: flex;
   font-family: Gotu, sans-serif;
   padding-right: 200px;
@@ -20,7 +20,7 @@ header {
 
 /*CABEÇALHO DE APRESENTAÇÃO*/
 div.cabecalho {
-  background-color: #f8f8f6;
+  background-color: #f8edeb;
   display: block;
   margin-top: 20px;
   border-style: solid;
@@ -60,7 +60,7 @@ nav#menu li {
   margin: 2px 2px 2px;
   text-align: center;
   font-size: 16px;
-  background-color: #ebece7;
+  background-color: #f8edeb;
   border-style: solid;
   border-radius: 20px;
   border-width: 2px;
@@ -77,7 +77,7 @@ nav#menu a:hover {
 
 /*DIV DE TEXTO*/
 div.texto {
-  background-color: #ebece7;
+  background-color: #f8edeb;
   display: block;
   width: 850px;
   position: center;
