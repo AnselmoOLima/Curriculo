@@ -1,0 +1,16 @@
+ul#links{
+    margin: 0px;
+    list-style: circle;
+    padding-left: 25px;
+}
+
+a.link {
+    text-decoration-line: blink;
+    color: black;
+    font-weight: bold;
+}
+  
+abbr {
+ text-decoration: none;
+}
+  

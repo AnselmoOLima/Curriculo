@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Gotu&display=swap");
 
 body {
-  background: linear-gradient(to right, #ffb5a7, #fcd5ce);
+  background:#C9ADA7;
   display: flex;
   font-family: Gotu, sans-serif;
   padding-right: 200px;
@@ -20,14 +20,13 @@ header {
 
 /*CABEÇALHO DE APRESENTAÇÃO*/
 div.cabecalho {
-  background-color: #f8edeb;
+  background-color: #F2E9E4;
   display: block;
   margin-top: 20px;
   border-style: solid;
   border-width: 2px;
   padding: 10px;
   border-radius: 50px;
-  vertical-align: center;
 }
 
 div.cabecalho img#minhaFoto {
@@ -60,7 +59,7 @@ nav#menu li {
   margin: 2px 2px 2px;
   text-align: center;
   font-size: 16px;
-  background-color: #f8edeb;
+  background-color: #F2E9E4;
   border-style: solid;
   border-radius: 20px;
   border-width: 2px;
@@ -77,7 +76,7 @@ nav#menu a:hover {
 
 /*DIV DE TEXTO*/
 div.texto {
-  background-color: #f8edeb;
+  background-color: #F2E9E4;
   display: block;
   width: 850px;
   position: center;
@@ -105,14 +104,3 @@ div.texto ul.atividade h1 {
   margin-bottom: 4px;
 }
 
-/*LINKS*/
-a.link {
-  font-style: oblique;
-  text-decoration-line: blink;
-  color: black;
-  font-weight: bold;
-}
-
-abbr {
-  text-decoration: none;
-}
